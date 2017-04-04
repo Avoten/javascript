@@ -1,2 +1,2 @@
 # javascript
-Avoten JavaScript
+The JavaScript
